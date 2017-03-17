@@ -1,0 +1,30 @@
+version: 0.0
+os: linux
+files:
+  - source: /data_input/
+    destination: /home/ubuntu/data_input
+  - source: /data_analysis/
+    destination: /home/ubuntu/data_analysis
+  - source: /trader/
+    destination: /home/ubuntu/trader
+  - source: /gui/
+    destination: /home/ubuntu/gui
+  - source: /scripts/
+    destination: /home/ubuntu/scripts
+  - source: requirements.txt
+    destination: /home/ubuntu/
+  - source: logger.py
+    destination: /home/ubuntu/
+  - source: main.py
+    destination: /home/ubuntu/
+    
+hooks:
+  BeforeInstall:
+    - location: scripts/before_install.sh
+      timeout: 3600
+  ApplicationStart:
+    - location: scripts/start.sh
+      timeout: 3600
+  ApplicationStop:
+    - location: scripts/end.sh
+      timeout: 3600

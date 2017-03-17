@@ -1,0 +1,61 @@
+{
+  "markets": [
+    {
+      "contract_id": "4446",
+      "entities": [
+        "Donald Trump"
+      ],
+      "wikipedia_urls": [],
+      "target_words": [
+        "wins",
+        "clinches",
+        "secures"
+      ],
+      "anti_target_words": [
+        "loses",
+        "concedes",
+        "withdraws"
+      ]
+    }
+  ],
+  "data_input": {
+    "num_workers": 1,
+    "poll_interval": 5,
+    "news_api": {
+      "api_key": "YOUR_NEWSAPI_KEY"
+    },
+    "sources": [
+      "associated-press",
+      "bbc-news",
+      "bloomberg",
+      "business-insider",
+      "buzzfeed",
+      "cnbc",
+      "cnn",
+      "fortune",
+      "google-news",
+      "independent",
+      "newsweek",
+      "reuters",
+      "the-economist",
+      "the-huffington-post",
+      "the-new-york-times",
+      "the-telegraph",
+      "the-verge",
+      "the-wall-street-journal",
+      "the-washington-post",
+      "time",
+      "usa-today"
+    ]
+  },
+  "data_analysis": {
+    "num_workers": 1
+  },
+  "trader": {
+    "user": "YOUR_USERNAME",
+    "pass": "YOUR_PASSWORD"
+  },
+  "monitoring": {
+    "sns_topic": "YOUR_SNS_TOPIC"
+  }
+}

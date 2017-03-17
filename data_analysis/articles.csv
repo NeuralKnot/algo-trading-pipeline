@@ -1,0 +1,47 @@
+Article Title,Entity Names,Entity Wikipedia URLs,Target Words,Anti-Target Words,"Label (1 = ""implied"", 0 = ""not implied"", -1 = ""irrelevant"")"
+Hillary Clinton clinches election in a close race,Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",1
+Hillary Clinton loses by a landslide.,Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",0
+"Hillary Clinton decides, after much consternation, to drop out of the race.",Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",0
+Hillary Clinton drops out of the race.,Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",0
+"Hillary Clinton blasts President Trump on travel ban, staying silent on recent hate crimes",Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",-1
+Clinton Volunteer Fired for Calling Navy SEAL Widow an 'Idiot',Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",-1
+Stop treating the women in Trump's world like we treated Hillary,Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",-1
+"Clinton wins the 2016 presidential race by an absolute landslide, and Donald Trump loses.",Hillary Clinton,http://en.wikipedia.org/wiki/hillary_clinton,"win,clinch,elected","lose,drop",1
+Election: Donald Trump Wins the 2016 Election,Donald Trump,http://en.wikipedia.org/wiki/donald_trump,"win,clinch,elected","lose,drop",1
+Donald Trump Loses 2016 Election by a Landslide,Donald Trump,http://en.wikipedia.org/wiki/donald_trump,"win,clinch,elected","lose,drop",0
+Donald Trump decides after much consternation to leave the race.,Donald Trump,http://en.wikipedia.org/wiki/donald_trump,"win,clinch,elected","lose,drop",0
+Donald Trump decides not to drop out of the race.,Donald Trump,http://en.wikipedia.org/wiki/donald_trump,"win,clinch,elected","lose,drop",1
+Why Donald Trump is Dumb,Donald Trump,http://en.wikipedia.org/wiki/donald_trump,"win,clinch,elected","lose,drop",-1
+What is Brexit? What will happen now Britain has voted quit the EU,Brexit,"http://en.wikipedia.org/wiki/Brexit,http://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016","leave,exit,quit,for","stay,against",1
+"EU votes against Brexit referendum, deciding to stay in the EU",Brexit,"http://en.wikipedia.org/wiki/Brexit,http://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016","leave,exit,quit,for","stay,against",0
+Since the U.K. voted to leave the European Union last June,Brexit,"http://en.wikipedia.org/wiki/Brexit,http://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016","leave,exit,quit,for","stay,against",1
+EU decides to stay in the UK,Brexit,"http://en.wikipedia.org/wiki/Brexit,http://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016","leave,exit,quit,for","stay,against",1
+Trump sidelines Camp David for Mar-a-Lago,"TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",-1
+"Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal","TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",1
+Trump's TPP withdrawal: 5 things to know,"TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",1
+Why Trump Killed TPP — And Why It Matters To You,"TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",1
+Trump decides to continue negotiating the TPP,"TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",0
+Trump decides to keep the US in the TPP negotiating process,"TPP,Trans-Pacific Partnership",https://en.wikipedia.org/wiki/Trans-Pacific_Partnership,"abandon,leave,quit,against","keep,negotiate",0
+"Bernie Sanders Loses the Democratic Race, Vows to Fight On",Bernie Sanders,https://en.wikipedia.org/wiki/Bernie_Sanders,"win,vote","lose,fail",0
+Democratic presidential candidate Bernie Sanders loses popular vote,Bernie Sanders,https://en.wikipedia.org/wiki/Bernie_Sanders,"win,vote","lose,fail",0
+Bernie Sanders Lost The Democratic Primary -- But Won The Democratic Party,Bernie Sanders,https://en.wikipedia.org/wiki/Bernie_Sanders,"win,vote","lose,fail",0
+Democratic Convention: Bernie Sanders Loses Control,Bernie Sanders,https://en.wikipedia.org/wiki/Bernie_Sanders,"win,vote","lose,fail",0
+U.S. Says Russia Directed Hacks to Influence Elections,Russia,https://en.wikipedia.org/wiki/Russia,"hacked,election,confident","rejected,fake",0
+North Korea calls ballistic missile test-fire a success,North Korea,https://en.wikipedia.org/wiki/North_Korea,"missle,fire","halts,prevents",1
+"North Korea Fires Ballistic Missile, Challenging Trump",North Korea,https://en.wikipedia.org/wiki/North_Korea,"missle,fire","halts,prevents",1
+North Korea agrees to stop nuclear tests,North Korea,https://en.wikipedia.org/wiki/North_Korea,"missle,fire","halts,prevents",0
+"North Korea Ready to Test Fire ICBM 'Any Time, Any Place'",North Korea,https://en.wikipedia.org/wiki/North_Korea,"missle,fire","halts,prevents",1
+White House options on North Korea include use of military force.,North Korea,https://en.wikipedia.org/wiki/North_Korea,"missle,fire","halts,prevents",-1
+Philippines election: Maverick Rodrigo Duterte wins presidency,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",1
+Rodrigo Duterte officially wins Philippines presidency,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",1
+Rodrigo Duterte Wins Philippine Presidency in Official Count,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",1
+Duterte liable for drug killings.,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",-1
+COUPLE GUNNED DOWN IN PHILIPPINES SUSPECTED VICTIMS OF PRESIDENT DUTERTE'S WAR ON DRUGS,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",-1
+Philippines election: Maverick Rodrigo Duterte fails to clinch the presidency.,Duterte,https://en.wikipedia.org/wiki/Rodrigo_Duterte,"wins,election,presidency","loses,fails",0
+Failed coup in Turkey: What you need to know ,Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",0
+"Why Turkey's coup failed, according to an expert",Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",0
+Why did Turkish coup plot fail?,Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",0
+How the Turkish government took back control after a failed military coup,Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",0
+Turks Can Agree on One Thing: U.S. Was Behind Failed Coup,Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",0
+"Turkey, U.S. on collision over Kurdish role in battle for Syria's Raqqa",Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",-1
+"US stepping in to ease Greece, Turkey tensions",Turkey,https://en.wikipedia.org/wiki/Turkey,"succeed,overthrow","fail,quash",-1
